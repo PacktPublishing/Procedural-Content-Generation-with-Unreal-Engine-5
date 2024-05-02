@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/Maps/L_Chapter7.umap",
+				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/PCG/SetToPoints.uasset",
+				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/04_PCG/Building/SetToPoints.uasset",
+				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/PCG/Blueprint/SetToPoints.uasset",
+				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
