@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/PACKT_Book/Exercises/UE5_PCG_Chapter_08/Content/StarterContent/Textures/T_Ground_Grass_D.uasset",
+				"G:/PACKT_Book/Exercises/UE5_PCG_Chapter_08/Content/StarterContent/Textures/T_Ground_Grass_N.uasset",
+				"G:/PACKT_Book/Exercises/UE5_PCG_Chapter_08/Content/StarterContent/Materials/M_Landscape.uasset",
+				"G:/PACKT_Book/Exercises/UE5_PCG_Chapter_08/Content/Maps/L_Biome.umap"
+			]
+		}
+	]
+}
