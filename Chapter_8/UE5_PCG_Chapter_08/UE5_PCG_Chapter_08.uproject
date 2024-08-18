@@ -18,6 +18,10 @@
 		{
 			"Name": "PCGExternalDataInterop",
 			"Enabled": true
+		},
+		{
+			"Name": "PCGBiomeCore",
+			"Enabled": true
 		}
 	]
 }

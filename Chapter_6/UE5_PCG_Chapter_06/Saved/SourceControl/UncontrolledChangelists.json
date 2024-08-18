@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/user/Documents/GitHub/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_6/UE5_PCG_Chapter_06/Content/Materials/M_LandscapePCG.uasset",
+				"C:/Users/user/Documents/GitHub/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_6/UE5_PCG_Chapter_06/Content/Maps/L_Chapter6.umap",
+				"C:/Users/user/Documents/GitHub/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_6/UE5_PCG_Chapter_06/Content/Maps/L_Chapter6_sharedassets/Ground_LayerInfo.uasset",
+				"C:/Users/user/Documents/GitHub/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_6/UE5_PCG_Chapter_06/Content/Maps/L_Chapter6_sharedassets/Mud_LayerInfo.uasset",
+				"C:/Users/user/Documents/GitHub/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_6/UE5_PCG_Chapter_06/Content/Maps/L_Chapter6_sharedassets/Snow_LayerInfo.uasset",
+				"C:/Users/user/Documents/GitHub/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_6/UE5_PCG_Chapter_06/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_6/UE5_PCG_Chapter_06/Content/Textures/T_Forest_Ground_2K.uasset",
 				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_6/UE5_PCG_Chapter_06/Content/Textures/T_Snow_2K.uasset",
 				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_6/UE5_PCG_Chapter_06/Content/Textures/T_Mud_Ground_2K.uasset",
