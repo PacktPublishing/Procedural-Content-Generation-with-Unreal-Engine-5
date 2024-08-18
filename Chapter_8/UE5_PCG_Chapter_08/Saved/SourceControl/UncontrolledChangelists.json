@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"A:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_8/UE5_PCG_Chapter_08/Content/LandscapeBiome.uasset",
 				"G:/PACKT_Book/Exercises/UE5_PCG_Chapter_08/Content/StarterContent/Textures/T_Ground_Grass_D.uasset",
 				"G:/PACKT_Book/Exercises/UE5_PCG_Chapter_08/Content/StarterContent/Textures/T_Ground_Grass_N.uasset",
 				"G:/PACKT_Book/Exercises/UE5_PCG_Chapter_08/Content/StarterContent/Materials/M_Landscape.uasset",
