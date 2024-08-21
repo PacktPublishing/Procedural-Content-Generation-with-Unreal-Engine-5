@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/user/Documents/GitHub/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/PCG/Exercise/V3/PCG_BuildingStructure1_2.uasset",
+				"C:/Users/user/Documents/GitHub/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/PCG/Exercise/Blueprint/SetToPoints.uasset",
+				"C:/Users/user/Documents/GitHub/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/Maps/L_Chapter7.umap",
+				"C:/Users/user/Documents/GitHub/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/PCG_Example/BP_BuildingStructure.uasset",
 				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/Maps/L_Chapter7.umap",
 				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/PCG/Blueprint/SetToPoints.uasset",
 				"D:/PCG_PACKT_Github/Chapter2/Procedural-Content-Generation-with-Unreal-Engine-5/Chapter_7/UE5_PCG_Chapter_07/Content/Models/SM_Box_Test.uasset",
