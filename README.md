@@ -37,11 +37,7 @@ With the following software and hardware list you can run all code files present
 | Chapter  | Software required                                       | OS required                      |
 | -------- | --------------------------------------------------------| ---------------------------------|
 | 1-11     | Unreal Engine 5 (Minimum 5.4)                                 | Windows      |
-| 1-11     | GPU (NVIDIA RTX, AMD Radeon RX with 8+ GB VRAM), and at least 16
-GB RAM. For more info, visit the official Epic Games website: https://
-dev.epicgames.com/documentation/en-us/unreal-engine/
-hardware-and-software-specifications-for-unrealengine?
-application_version=5.4                                       | Windows        |
+| 1-11     | GPU (NVIDIA RTX, AMD Radeon RX with 8+ GB VRAM), and at least 16GB RAM. For more info, visit the official Epic Games website: https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation?application_version=5.4  | Windows        |
 
  
 ## Related products <Other books you may enjoy>
